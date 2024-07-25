@@ -112,9 +112,9 @@ const ListAlumnos = () => {
                       <td>Cristian Gerardo Vazquez Ramos</td>
                       <td>221267</td>
                       <td>8</td>
-                      <td>85</td>
-                      <td>90</td>
-                      <td>93</td>
+                      <td>100</td>
+                      <td>100</td>
+                      <td>100</td>
                       <td>
                         <button className="eval-button">Calificar</button>
                       </td>
@@ -159,7 +159,7 @@ const ListAlumnos = () => {
                       <td></td>
                       <td></td>
                       <td></td>
-                      <td><a href="·">ver todos</a></td>
+                      <td><a href="#">ver todos</a></td>
                     </tr>
                   </tbody>
                 </table>
@@ -231,7 +231,7 @@ const ListAlumnos = () => {
                       <td></td>
                       <td></td>
                       <td></td>
-                      <td><a href="·">ver todos</a></td>
+                      <td><a href="#">ver todos</a></td>
                     </tr>
                   </tbody>
                 </table>
